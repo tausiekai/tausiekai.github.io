@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>超爆啊</title>
+    <link>https://tausiekai.github.io/sbr/zh/</link>
+    <description>Recent content on 超爆啊</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>{year} &amp;copy; all rights reserved</copyright>
+    <lastBuildDate>Sun, 19 Jan 2020 21:13:42 +0900</lastBuildDate>
+    <sy:updatePeriod>monthly</sy:updatePeriod>
+    <sy:updateFrequency>monthly</sy:updateFrequency>
+    
+        <atom:link href="https://tausiekai.github.io/sbr/zh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+
+      
+      <item>
+        <title>鼓励</title>
+        <link>https://tausiekai.github.io/sbr/zh/donate/</link>
+        <pubDate>Wed, 01 Jan 2020 01:01:01 +0100</pubDate>
+        
+        <atom:modified>Wed, 01 Jan 2020 01:01:01 +0100</atom:modified>
+        <guid>https://tausiekai.github.io/sbr/zh/donate/</guid>
+        <description>这是一些赞助方式来赞助我这小博客，电脑安全习关于电子商务或荷兰植物馆。每一点都非常欢迎，我都非常感谢！确保留下联系方式哦。 会员交易 使用这些方</description>
+        
+        <dc:creator>Suberpower</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>鼓励</title>
+        <link>https://tausiekai.github.io/sbr/zh/zh/donate/</link>
+        <pubDate>Wed, 01 Jan 2020 01:01:01 +0100</pubDate>
+        
+        <atom:modified>Wed, 01 Jan 2020 01:01:01 +0100</atom:modified>
+        <guid>https://tausiekai.github.io/sbr/zh/zh/donate/</guid>
+        <description>这是一些赞助方式来赞助我这小博客，电脑安全习关于电子商务或荷兰植物馆。每一点都非常欢迎，我都非常感谢！确保留下联系方式哦。 会员交易 使用这些方</description>
+        
+        <dc:creator>Suberpower</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

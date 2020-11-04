@@ -1,1 +1,3 @@
-# tausiekai.github.io
+---
+permalink: /index.html
+---

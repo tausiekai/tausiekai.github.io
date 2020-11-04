@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>我的兴趣 on 超爆啊</title>
-    <link>https://tausiekai.github.io/sbr/zh/showcase/hobby/</link>
+    <link>https://tausiekai.github.io/zh/showcase/hobby/</link>
     <description>Recent content in 我的兴趣 on 超爆啊</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <sy:updatePeriod>monthly</sy:updatePeriod>
     <sy:updateFrequency>monthly</sy:updateFrequency>
     
-        <atom:link href="https://tausiekai.github.io/sbr/zh/showcase/hobby/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://tausiekai.github.io/zh/showcase/hobby/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>KPN 云FAQ</title>
-        <link>https://tausiekai.github.io/sbr/zh/showcase/hobby/cloudfaq_repo/</link>
+        <link>https://tausiekai.github.io/zh/showcase/hobby/cloudfaq_repo/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>https://tausiekai.github.io/sbr/zh/showcase/hobby/cloudfaq_repo/</guid>
+        <guid>https://tausiekai.github.io/zh/showcase/hobby/cloudfaq_repo/</guid>
         <description></description>
         
         <dc:creator>Suberpower</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>官方荷兰植物馆 (Plantenbieb)</title>
-        <link>https://tausiekai.github.io/sbr/zh/showcase/hobby/plantenbiebs_repo/</link>
+        <link>https://tausiekai.github.io/zh/showcase/hobby/plantenbiebs_repo/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>https://tausiekai.github.io/sbr/zh/showcase/hobby/plantenbiebs_repo/</guid>
+        <guid>https://tausiekai.github.io/zh/showcase/hobby/plantenbiebs_repo/</guid>
         <description></description>
         
         <dc:creator>Suberpower</dc:creator>
@@ -60,11 +60,11 @@
       
       <item>
         <title>超安网业(Suberdeal)</title>
-        <link>https://tausiekai.github.io/sbr/zh/showcase/hobby/suberdeal_repo/</link>
+        <link>https://tausiekai.github.io/zh/showcase/hobby/suberdeal_repo/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>https://tausiekai.github.io/sbr/zh/showcase/hobby/suberdeal_repo/</guid>
+        <guid>https://tausiekai.github.io/zh/showcase/hobby/suberdeal_repo/</guid>
         <description>电脑安全习关于电子商务</description>
         
         <dc:creator>Suberpower</dc:creator>
@@ -78,11 +78,11 @@
       
       <item>
         <title>Linux配置文</title>
-        <link>https://tausiekai.github.io/sbr/zh/showcase/hobby/dotfiles/</link>
+        <link>https://tausiekai.github.io/zh/showcase/hobby/dotfiles/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>https://tausiekai.github.io/sbr/zh/showcase/hobby/dotfiles/</guid>
+        <guid>https://tausiekai.github.io/zh/showcase/hobby/dotfiles/</guid>
         <description></description>
         
         <dc:creator>Suberpower</dc:creator>
@@ -96,11 +96,11 @@
       
       <item>
         <title>线上幻灯片</title>
-        <link>https://tausiekai.github.io/sbr/zh/showcase/hobby/webslides/</link>
+        <link>https://tausiekai.github.io/zh/showcase/hobby/webslides/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>https://tausiekai.github.io/sbr/zh/showcase/hobby/webslides/</guid>
+        <guid>https://tausiekai.github.io/zh/showcase/hobby/webslides/</guid>
         <description></description>
         
         <dc:creator>Suberpower</dc:creator>

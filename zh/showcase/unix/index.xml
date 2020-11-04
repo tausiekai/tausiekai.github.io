@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>程式设计 on 超爆啊</title>
-    <link>https://tausiekai.github.io/sbr/zh/showcase/unix/</link>
+    <link>https://tausiekai.github.io/zh/showcase/unix/</link>
     <description>Recent content in 程式设计 on 超爆啊</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <sy:updatePeriod>monthly</sy:updatePeriod>
     <sy:updateFrequency>monthly</sy:updateFrequency>
     
-        <atom:link href="https://tausiekai.github.io/sbr/zh/showcase/unix/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://tausiekai.github.io/zh/showcase/unix/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>musl C馆</title>
-        <link>https://tausiekai.github.io/sbr/zh/showcase/unix/musl/</link>
+        <link>https://tausiekai.github.io/zh/showcase/unix/musl/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>https://tausiekai.github.io/sbr/zh/showcase/unix/musl/</guid>
+        <guid>https://tausiekai.github.io/zh/showcase/unix/musl/</guid>
         <description></description>
         
         <dc:creator>Suberpower</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>runit</title>
-        <link>https://tausiekai.github.io/sbr/zh/showcase/unix/runit/</link>
+        <link>https://tausiekai.github.io/zh/showcase/unix/runit/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>https://tausiekai.github.io/sbr/zh/showcase/unix/runit/</guid>
+        <guid>https://tausiekai.github.io/zh/showcase/unix/runit/</guid>
         <description></description>
         
         <dc:creator>Suberpower</dc:creator>
@@ -60,11 +60,11 @@
       
       <item>
         <title>VSCodium</title>
-        <link>https://tausiekai.github.io/sbr/zh/showcase/unix/vscodium/</link>
+        <link>https://tausiekai.github.io/zh/showcase/unix/vscodium/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>https://tausiekai.github.io/sbr/zh/showcase/unix/vscodium/</guid>
+        <guid>https://tausiekai.github.io/zh/showcase/unix/vscodium/</guid>
         <description></description>
         
         <dc:creator>Suberpower</dc:creator>
@@ -78,11 +78,11 @@
       
       <item>
         <title>xbps</title>
-        <link>https://tausiekai.github.io/sbr/zh/showcase/unix/xbps/</link>
+        <link>https://tausiekai.github.io/zh/showcase/unix/xbps/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>https://tausiekai.github.io/sbr/zh/showcase/unix/xbps/</guid>
+        <guid>https://tausiekai.github.io/zh/showcase/unix/xbps/</guid>
         <description></description>
         
         <dc:creator>Suberpower</dc:creator>
@@ -96,11 +96,11 @@
       
       <item>
         <title>Alpine映像</title>
-        <link>https://tausiekai.github.io/sbr/zh/showcase/unix/alpinelinux/</link>
+        <link>https://tausiekai.github.io/zh/showcase/unix/alpinelinux/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>https://tausiekai.github.io/sbr/zh/showcase/unix/alpinelinux/</guid>
+        <guid>https://tausiekai.github.io/zh/showcase/unix/alpinelinux/</guid>
         <description></description>
         
         <dc:creator>Suberpower</dc:creator>
@@ -114,11 +114,11 @@
       
       <item>
         <title>Arch Linux映像</title>
-        <link>https://tausiekai.github.io/sbr/zh/showcase/unix/archlinux/</link>
+        <link>https://tausiekai.github.io/zh/showcase/unix/archlinux/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>https://tausiekai.github.io/sbr/zh/showcase/unix/archlinux/</guid>
+        <guid>https://tausiekai.github.io/zh/showcase/unix/archlinux/</guid>
         <description></description>
         
         <dc:creator>Suberpower</dc:creator>
@@ -132,11 +132,11 @@
       
       <item>
         <title>Linux核心</title>
-        <link>https://tausiekai.github.io/sbr/zh/showcase/unix/linuxkernel/</link>
+        <link>https://tausiekai.github.io/zh/showcase/unix/linuxkernel/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>https://tausiekai.github.io/sbr/zh/showcase/unix/linuxkernel/</guid>
+        <guid>https://tausiekai.github.io/zh/showcase/unix/linuxkernel/</guid>
         <description></description>
         
         <dc:creator>Suberpower</dc:creator>
@@ -150,11 +150,11 @@
       
       <item>
         <title>Void Linux</title>
-        <link>https://tausiekai.github.io/sbr/zh/showcase/unix/voidlinux/</link>
+        <link>https://tausiekai.github.io/zh/showcase/unix/voidlinux/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>https://tausiekai.github.io/sbr/zh/showcase/unix/voidlinux/</guid>
+        <guid>https://tausiekai.github.io/zh/showcase/unix/voidlinux/</guid>
         <description></description>
         
         <dc:creator>Suberpower</dc:creator>
@@ -168,11 +168,11 @@
       
       <item>
         <title>Void文档</title>
-        <link>https://tausiekai.github.io/sbr/zh/showcase/unix/voiddocs/</link>
+        <link>https://tausiekai.github.io/zh/showcase/unix/voiddocs/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>https://tausiekai.github.io/sbr/zh/showcase/unix/voiddocs/</guid>
+        <guid>https://tausiekai.github.io/zh/showcase/unix/voiddocs/</guid>
         <description></description>
         
         <dc:creator>Suberpower</dc:creator>
@@ -186,11 +186,11 @@
       
       <item>
         <title>Void软件包</title>
-        <link>https://tausiekai.github.io/sbr/zh/showcase/unix/voidpackages/</link>
+        <link>https://tausiekai.github.io/zh/showcase/unix/voidpackages/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>https://tausiekai.github.io/sbr/zh/showcase/unix/voidpackages/</guid>
+        <guid>https://tausiekai.github.io/zh/showcase/unix/voidpackages/</guid>
         <description></description>
         
         <dc:creator>Suberpower</dc:creator>

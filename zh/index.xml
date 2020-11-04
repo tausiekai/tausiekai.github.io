@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>超爆啊</title>
-    <link>https://tausiekai.github.io/sbr/zh/</link>
+    <link>https://tausiekai.github.io/zh/</link>
     <description>Recent content on 超爆啊</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <sy:updatePeriod>monthly</sy:updatePeriod>
     <sy:updateFrequency>monthly</sy:updateFrequency>
     
-        <atom:link href="https://tausiekai.github.io/sbr/zh/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://tausiekai.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -49,29 +49,11 @@
       
       <item>
         <title>鼓励</title>
-        <link>https://tausiekai.github.io/sbr/zh/donate/</link>
+        <link>https://tausiekai.github.io/zh/donate/</link>
         <pubDate>Wed, 01 Jan 2020 01:01:01 +0100</pubDate>
         
         <atom:modified>Wed, 01 Jan 2020 01:01:01 +0100</atom:modified>
-        <guid>https://tausiekai.github.io/sbr/zh/donate/</guid>
-        <description>这是一些赞助方式来赞助我这小博客，电脑安全习关于电子商务或荷兰植物馆。每一点都非常欢迎，我都非常感谢！确保留下联系方式哦。 会员交易 使用这些方</description>
-        
-        <dc:creator>Suberpower</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>鼓励</title>
-        <link>https://tausiekai.github.io/sbr/zh/zh/donate/</link>
-        <pubDate>Wed, 01 Jan 2020 01:01:01 +0100</pubDate>
-        
-        <atom:modified>Wed, 01 Jan 2020 01:01:01 +0100</atom:modified>
-        <guid>https://tausiekai.github.io/sbr/zh/zh/donate/</guid>
+        <guid>https://tausiekai.github.io/zh/donate/</guid>
         <description>这是一些赞助方式来赞助我这小博客，电脑安全习关于电子商务或荷兰植物馆。每一点都非常欢迎，我都非常感谢！确保留下联系方式哦。 会员交易 使用这些方</description>
         
         <dc:creator>Suberpower</dc:creator>

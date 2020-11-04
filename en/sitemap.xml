@@ -3,563 +3,397 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/showcase/hobby/cloudfaq_repo/</loc>
+    <loc>https://tausiekai.github.io/en/showcase/hugo/hugo-theme-zzo/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/showcase/hobby/cloudfaq_repo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/showcase/hobby/cloudfaq_repo/"
-                />
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/showcase/security/netflixbounty/</loc>
+    <loc>https://tausiekai.github.io/en/showcase/hugo/hugo-theme-zdoc/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/showcase/security/netflixbounty/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/showcase/security/netflixbounty/"
-                />
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/showcase/hobby/plantenbiebs_repo/</loc>
-    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/showcase/hobby/plantenbiebs_repo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/showcase/hobby/plantenbiebs_repo/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tausiekai.github.io/sbr/en/showcase/hobby/suberdeal_repo/</loc>
-    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/showcase/hobby/suberdeal_repo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/showcase/hobby/suberdeal_repo/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tausiekai.github.io/sbr/en/showcase/unix/musl/</loc>
-    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/showcase/unix/musl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/showcase/unix/musl/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tausiekai.github.io/sbr/en/showcase/hobby/dotfiles/</loc>
-    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/showcase/hobby/dotfiles/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/showcase/hobby/dotfiles/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tausiekai.github.io/sbr/en/showcase/unix/runit/</loc>
-    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/showcase/unix/runit/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/showcase/unix/runit/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tausiekai.github.io/sbr/en/showcase/security/snortthree/</loc>
-    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/showcase/security/snortthree/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/showcase/security/snortthree/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tausiekai.github.io/sbr/en/showcase/unix/vscodium/</loc>
-    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/showcase/unix/vscodium/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/showcase/unix/vscodium/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tausiekai.github.io/sbr/en/showcase/unix/xbps/</loc>
-    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/showcase/unix/xbps/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/showcase/unix/xbps/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tausiekai.github.io/sbr/en/showcase/unix/alpinelinux/</loc>
-    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/showcase/unix/alpinelinux/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/showcase/unix/alpinelinux/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tausiekai.github.io/sbr/en/showcase/unix/archlinux/</loc>
-    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/showcase/unix/archlinux/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/showcase/unix/archlinux/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tausiekai.github.io/sbr/en/showcase/unix/linuxkernel/</loc>
-    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/showcase/unix/linuxkernel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/showcase/unix/linuxkernel/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tausiekai.github.io/sbr/en/showcase/unix/voiddocs/</loc>
-    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/showcase/unix/voiddocs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/showcase/unix/voiddocs/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tausiekai.github.io/sbr/en/showcase/unix/voidlinux/</loc>
-    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/showcase/unix/voidlinux/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/showcase/unix/voidlinux/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tausiekai.github.io/sbr/en/showcase/unix/voidpackages/</loc>
-    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/showcase/unix/voidpackages/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/showcase/unix/voidpackages/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tausiekai.github.io/sbr/en/showcase/hobby/webslides/</loc>
-    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/showcase/hobby/webslides/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/showcase/hobby/webslides/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tausiekai.github.io/sbr/en/</loc>
+    <loc>https://tausiekai.github.io/en/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://tausiekai.github.io/sbr/nl/"
+                href="https://tausiekai.github.io/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/"
+                href="https://tausiekai.github.io/en/"
                 />
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/publication/misc/</loc>
+    <loc>https://tausiekai.github.io/en/publication/article/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/publication/</loc>
+    <loc>https://tausiekai.github.io/en/publication/book/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/publication/review/</loc>
+    <loc>https://tausiekai.github.io/en/publication/misc/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/resume/</loc>
-    <lastmod>2020-02-09T20:13:59+09:00</lastmod>
+    <loc>https://tausiekai.github.io/en/publication/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/posts/</loc>
+    <loc>https://tausiekai.github.io/en/posts/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/posts/"
+                href="https://tausiekai.github.io/zh/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/posts/"
+                href="https://tausiekai.github.io/en/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/posts/shortcodes/</loc>
+    <loc>https://tausiekai.github.io/en/tags/shortcode/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/about/</loc>
-    <lastmod>2020-01-01T01:01:01+01:00</lastmod>
+    <loc>https://tausiekai.github.io/en/posts/shortcodes/</loc>
+    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/tags/</loc>
+    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/about/"
+                href="https://tausiekai.github.io/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/about/"
+                href="https://tausiekai.github.io/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/archive/</loc>
-    <lastmod>2020-01-01T01:01:01+01:00</lastmod>
+    <loc>https://tausiekai.github.io/en/showcase/hugo/</loc>
+    <lastmod>2020-01-19T21:04:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/showcase/</loc>
+    <lastmod>2020-01-19T15:43:38+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/archive/"
+                href="https://tausiekai.github.io/zh/showcase/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/archive/"
+                href="https://tausiekai.github.io/en/showcase/"
                 />
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/contact/</loc>
-    <lastmod>2020-01-01T01:01:01+01:00</lastmod>
+    <loc>https://tausiekai.github.io/en/categories/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/contact/"
+                href="https://tausiekai.github.io/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/contact/"
+                href="https://tausiekai.github.io/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/donate/</loc>
-    <lastmod>2020-01-01T01:01:01+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/donate/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/donate/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tausiekai.github.io/sbr/en/showcase/hobby/</loc>
-    <lastmod>2020-01-01T01:01:01+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/showcase/hobby/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/showcase/hobby/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tausiekai.github.io/sbr/en/project/plantenbiebs/</loc>
-    <lastmod>2020-01-01T01:01:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tausiekai.github.io/sbr/en/project/</loc>
-    <lastmod>2020-01-01T01:01:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tausiekai.github.io/sbr/en/showcase/</loc>
-    <lastmod>2020-01-01T01:01:01+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/showcase/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/showcase/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tausiekai.github.io/sbr/en/showcase/security/</loc>
-    <lastmod>2020-01-01T01:01:01+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/showcase/security/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/showcase/security/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tausiekai.github.io/sbr/en/project/suberdeal/</loc>
-    <lastmod>2020-01-01T01:01:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tausiekai.github.io/sbr/en/showcase/unix/</loc>
-    <lastmod>2020-01-01T01:01:01+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://tausiekai.github.io/sbr/zh/showcase/unix/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tausiekai.github.io/sbr/en/showcase/unix/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tausiekai.github.io/sbr/en/posts/markdown-syntax/</loc>
+    <loc>https://tausiekai.github.io/en/tags/css/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/posts/rich-content/</loc>
+    <loc>https://tausiekai.github.io/en/tags/html/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/tags/markdown/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/posts/markdown-syntax/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/series/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://tausiekai.github.io/zh/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tausiekai.github.io/en/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/categories/syntax/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/tags/themes/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/categories/themes/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/series/themes-guide/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/tags/privacy/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/posts/syntax-highlight/</loc>
+    <loc>https://tausiekai.github.io/en/posts/rich-content/</loc>
+    <lastmod>2019-12-19T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/tags/shortcodes/</loc>
+    <lastmod>2019-12-19T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/tags/hugo/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/posts/math-typesetting/</loc>
+    <loc>https://tausiekai.github.io/en/categories/hugo/</loc>
+    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/posts/syntax-highlight/</loc>
+    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/posts/math-typesetting/</loc>
     <lastmod>2019-12-17T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/posts/emoji-support/</loc>
+    <loc>https://tausiekai.github.io/en/tags/amoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/posts/test-viz/</loc>
+    <loc>https://tausiekai.github.io/en/tags/bamoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/tags/emoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/posts/emoji-support/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/tags/gamoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/tags/namoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/categories/diagram/</loc>
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/posts/test-wavedrom/</loc>
+    <loc>https://tausiekai.github.io/en/posts/test-viz/</loc>
+    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/posts/test-wavedrom/</loc>
     <lastmod>2019-11-18T18:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/posts/test-chartjs/</loc>
+    <loc>https://tausiekai.github.io/en/posts/test-chartjs/</loc>
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/posts/test-js-sequence-diagrams/</loc>
+    <loc>https://tausiekai.github.io/en/posts/test-js-sequence-diagrams/</loc>
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/posts/test-mermaid/</loc>
+    <loc>https://tausiekai.github.io/en/tags/diagram/</loc>
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/posts/test-mathjax/</loc>
+    <loc>https://tausiekai.github.io/en/posts/test-mermaid/</loc>
+    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/categories/math/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/posts/test-katex/</loc>
+    <loc>https://tausiekai.github.io/en/posts/test-mathjax/</loc>
+    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/posts/test-katex/</loc>
     <lastmod>2019-11-15T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/posts/test-flowchart/</loc>
+    <loc>https://tausiekai.github.io/en/posts/test-flowchart/</loc>
     <lastmod>2019-11-14T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/gallery/</loc>
+    <loc>https://tausiekai.github.io/en/gallery/cartoon/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/gallery/photo/</loc>
+    <loc>https://tausiekai.github.io/en/gallery/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/gallery/cartoon/</loc>
+    <loc>https://tausiekai.github.io/en/gallery/photo/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/presentation/dir/fourth/</loc>
+    <loc>https://tausiekai.github.io/en/presentation/dir/fourth/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/presentation/</loc>
+    <loc>https://tausiekai.github.io/en/presentation/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/presentation/third/</loc>
+    <loc>https://tausiekai.github.io/en/presentation/third/</loc>
     <lastmod>2019-10-30T20:46:30+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/presentation/second/</loc>
+    <loc>https://tausiekai.github.io/en/presentation/second/</loc>
     <lastmod>2019-10-30T20:45:24+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/presentation/first/</loc>
+    <loc>https://tausiekai.github.io/en/presentation/first/</loc>
     <lastmod>2019-10-30T19:45:20+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tausiekai.github.io/sbr/en/publication/review/1review/</loc>
+    <loc>https://tausiekai.github.io/en/archive/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://tausiekai.github.io/zh/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tausiekai.github.io/en/archive/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://tausiekai.github.io/zh/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tausiekai.github.io/en/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/publication/article/article_any_folder_name_1/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/publication/book/book_any_folder_name_1/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/publication/misc/misc_any_folder_name_1/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tausiekai.github.io/en/tags/index/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://tausiekai.github.io/zh/tags/index/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tausiekai.github.io/en/tags/index/"
+                />
   </url>
   
 </urlset>

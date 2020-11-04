@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>超爆啊</title>
-    <link>https://tausiekai.github.io/sbr/en/</link>
+    <link>https://tausiekai.github.io/en/</link>
     <description>Recent content on 超爆啊</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <sy:updatePeriod>monthly</sy:updatePeriod>
     <sy:updateFrequency>monthly</sy:updateFrequency>
     
-        <atom:link href="https://tausiekai.github.io/sbr/en/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://tausiekai.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -46,64 +46,6 @@
         
       
 
-      
-      <item>
-        <title>Donate</title>
-        <link>https://tausiekai.github.io/sbr/en/donate/</link>
-        <pubDate>Wed, 01 Jan 2020 01:01:01 +0100</pubDate>
-        
-        <atom:modified>Wed, 01 Jan 2020 01:01:01 +0100</atom:modified>
-        <guid>https://tausiekai.github.io/sbr/en/donate/</guid>
-        <description>Here are some ways to donate to Suberpower Techblog, Suberdeal Security Research and Plantenbiebs Nederland. Every bit is appreciated! Be sure to leave contact details.
-Affiliate Deals Use these to donate to me without even costing extra money. We both get rewards for these links.
-VPS DomainRegistrar InternetBrowser CryptocyrrencyTrader  Virtual Private Server It does not cost you extra money. What it is text
-Your Bonus text
-What I get text</description>
-        
-        <dc:creator>Suberpower</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Plantenbiebs Nederland</title>
-        <link>https://tausiekai.github.io/sbr/en/project/plantenbiebs/</link>
-        <pubDate>Wed, 01 Jan 2020 01:01:01 +0100</pubDate>
-        
-        <atom:modified>Wed, 01 Jan 2020 01:01:01 +0100</atom:modified>
-        <guid>https://tausiekai.github.io/sbr/en/project/plantenbiebs/</guid>
-        <description></description>
-        
-        <dc:creator>Suberpower</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Suberdeal</title>
-        <link>https://tausiekai.github.io/sbr/en/project/suberdeal/</link>
-        <pubDate>Wed, 01 Jan 2020 01:01:01 +0100</pubDate>
-        
-        <atom:modified>Wed, 01 Jan 2020 01:01:01 +0100</atom:modified>
-        <guid>https://tausiekai.github.io/sbr/en/project/suberdeal/</guid>
-        <description></description>
-        
-        <dc:creator>Suberpower</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
       
 
     

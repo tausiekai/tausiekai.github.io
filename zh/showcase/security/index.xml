@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>电脑安全 on 超爆啊</title>
-    <link>https://tausiekai.github.io/sbr/zh/showcase/security/</link>
+    <link>https://tausiekai.github.io/zh/showcase/security/</link>
     <description>Recent content in 电脑安全 on 超爆啊</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <sy:updatePeriod>monthly</sy:updatePeriod>
     <sy:updateFrequency>monthly</sy:updateFrequency>
     
-        <atom:link href="https://tausiekai.github.io/sbr/zh/showcase/security/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://tausiekai.github.io/zh/showcase/security/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Netflix错误赏金</title>
-        <link>https://tausiekai.github.io/sbr/zh/showcase/security/netflixbounty/</link>
+        <link>https://tausiekai.github.io/zh/showcase/security/netflixbounty/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>https://tausiekai.github.io/sbr/zh/showcase/security/netflixbounty/</guid>
+        <guid>https://tausiekai.github.io/zh/showcase/security/netflixbounty/</guid>
         <description></description>
         
         <dc:creator>Suberpower</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>snort的三代</title>
-        <link>https://tausiekai.github.io/sbr/zh/showcase/security/snortthree/</link>
+        <link>https://tausiekai.github.io/zh/showcase/security/snortthree/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>https://tausiekai.github.io/sbr/zh/showcase/security/snortthree/</guid>
+        <guid>https://tausiekai.github.io/zh/showcase/security/snortthree/</guid>
         <description></description>
         
         <dc:creator>Suberpower</dc:creator>
